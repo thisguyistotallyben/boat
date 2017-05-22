@@ -1,5 +1,5 @@
 # BOAT
-Ben's Organizing Assignment Tool
+Ben's Organized Assignment Tool
 
 Presents a day/week/month/semester view of assignments.
 
